@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin-top:20px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-bottom:20px;
+}
+img.rounded-corners {
+  border-radius: 50%;
+}
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:#79a484;
+  color:#ffffff;
+}
+header {
+  background-color:#62936e;
+  padding:30px;
+}
+h2{
+  color:#e6db94;
+}
+h3 {
+  color:#e1e2c5;
+}
